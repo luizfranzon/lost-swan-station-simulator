@@ -1,7 +1,7 @@
 let body = document.querySelector("body");
 let input = document.querySelector("input");
 
-document.title = 5;
+document.title = 108;
 
 var siren = new Audio("media/siren.mp3");
 var type = new Audio("media/type.mp3");
